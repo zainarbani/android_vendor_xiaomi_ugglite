@@ -39,7 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8917-common/proprietary/lib/extractors/libmmparser.so:system/lib/extractors/libmmparser.so \
     vendor/xiaomi/msm8917-common/proprietary/lib/libFileMux.so:system/lib/libFileMux.so \
     vendor/xiaomi/msm8917-common/proprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
-    vendor/xiaomi/msm8917-common/proprietary/lib/libmmosal_proprietary.so:system/lib/libmmosal_proprietary.so \
+    vendor/xiaomi/msm8917-common/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
     vendor/xiaomi/msm8917-common/proprietary/lib/libmmparser_lite.so:system/lib/libmmparser_lite.so \
     vendor/xiaomi/msm8917-common/proprietary/lib/libmmrtpdecoder.so:system/lib/libmmrtpdecoder.so \
     vendor/xiaomi/msm8917-common/proprietary/lib/libmmrtpencoder.so:system/lib/libmmrtpencoder.so \
@@ -73,7 +73,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8917-common/proprietary/lib64/libdpmtcm.so:system/lib64/libdpmtcm.so \
     vendor/xiaomi/msm8917-common/proprietary/lib64/libimscamera_jni.so:system/lib64/libimscamera_jni.so \
     vendor/xiaomi/msm8917-common/proprietary/lib64/libimsmedia_jni.so:system/lib64/libimsmedia_jni.so \
-    vendor/xiaomi/msm8917-common/proprietary/lib64/libmmosal_proprietary.so:system/lib64/libmmosal_proprietary.so \
+    vendor/xiaomi/msm8917-common/proprietary/lib64/libmmosal.so:system/lib64/libmmosal.so \
     vendor/xiaomi/msm8917-common/proprietary/lib64/libmmparser_lite.so:system/lib64/libmmparser_lite.so \
     vendor/xiaomi/msm8917-common/proprietary/lib64/librcc.so:system/lib64/librcc.so \
     vendor/xiaomi/msm8917-common/proprietary/lib64/libwfdclient.so:system/lib64/libwfdclient.so \
